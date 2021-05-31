@@ -1,0 +1,14 @@
+.modal-footer{
+    display: inline !important;
+    text-align: center;
+}
+.serverlist{
+    margin-top: 5px;
+}
+.textarea.form-control{
+    margin-bottom: 15px !important;
+}
+
+.modal-content{
+    text-align: center;
+}

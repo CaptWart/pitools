@@ -1,0 +1,32 @@
+.form-control{
+    width: 350px !important;
+    margin: auto;
+}
+
+.btn-secondary{
+    background-color: #6c757d !important;
+    width: 188px;
+    font-weight: 600 !important;
+}
+
+.btn-secondary.focus{
+    background-color: #5a6268 !important;
+    width: 188px;
+    font-weight: 600 !important;
+}
+.btn-secondary.active{
+    background-color: #5a6268 !important;
+    width: 188px;
+    font-weight: 600 !important;
+}
+
+#hidden{
+    display: none;
+    margin-top: 40px;
+}
+
+#show{
+    display: block;
+    margin-top: 40px;
+}
+

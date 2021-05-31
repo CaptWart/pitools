@@ -1,0 +1,19 @@
+.table{
+    width: 1000px!important;
+    margin: auto;
+}
+
+td{
+    word-break: break-all;
+    /* width: 300px; */
+}
+
+#keys{
+    width: 750px;
+}
+
+#results{
+    white-space: pre-wrap;
+    text-align: left;
+}
+
